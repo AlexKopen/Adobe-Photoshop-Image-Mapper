@@ -1,4 +1,4 @@
 PhotshopScripts
 ===============
 
-Scripts created in JavaScript that are runnable in Photoshop
+An Adobe Photoshop script to create an image map based off of the PSD's layers
